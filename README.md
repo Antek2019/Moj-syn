@@ -1,0 +1,2 @@
+# Moj-syn
+Ok
